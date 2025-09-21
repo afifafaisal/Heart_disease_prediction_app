@@ -26,5 +26,3 @@ If the model predicts heart disease, it indicates **higher chances of heart stro
 
 
 ---
-
-cd heart-stroke-predictor
